@@ -1,3 +1,3 @@
 # yeller-fi
 
-a different addition to readme at local
+this line was modified manually during conflict resolution
